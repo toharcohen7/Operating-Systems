@@ -1,0 +1,20 @@
+
+# C program
+*.o
+*.out
+*.a
+*.so
+*.dylib
+*.exe
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+*.zip
